@@ -1,0 +1,122 @@
+[
+    {
+      "from": "Bole Taxi Station",
+      "to": "Bole Airport",
+      "fromCoordinates": { "lat": 9.013, "lon": 38.773 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.773 } 
+    },
+    {
+      "from": "Bole Taxi Station",
+      "to": "CMC",
+      "fromCoordinates": { "lat": 9.013, "lon": 38.773 },
+      "toCoordinates": { "lat": 9.020, "lon": 38.827 }
+    },
+    {
+      "from": "Piazza Taxi Station",
+      "to": "Arat Kilo",
+      "fromCoordinates": { "lat": 9.033, "lon": 38.753 },
+      "toCoordinates": { "lat": 9.033, "lon": 38.753 } 
+    },
+    {
+      "from": "Piazza Taxi Station",
+      "to": "Sidist Kilo",
+      "fromCoordinates": { "lat": 9.033, "lon": 38.753 },
+      "toCoordinates": { "lat": 9.034, "lon": 38.763 } 
+    },
+    {
+      "from": "Mexico Square Taxi",
+      "to": "Meskel Square",
+      "fromCoordinates": { "lat": 9.01, "lon": 38.742 },
+      "toCoordinates": { "lat": 9.011, "lon": 38.761 }
+    },
+    {
+      "from": "Mexico Square Taxi",
+      "to": "Lideta",
+      "fromCoordinates": { "lat": 9.01, "lon": 38.742 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.732 }
+    },
+    {
+      "from": "Meskel Square Station",
+      "to": "Mexico Square",
+      "fromCoordinates": { "lat": 9.011, "lon": 38.761 },
+      "toCoordinates": { "lat": 9.01, "lon": 38.742 }
+    },
+    {
+      "from": "Meskel Square Station",
+      "to": "Bole",
+      "fromCoordinates": { "lat": 9.011, "lon": 38.761 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.773 }
+    },
+    {
+      "from": "Sar Bet Taxi Stand",
+      "to": "Lideta",
+      "fromCoordinates": { "lat": 9.025, "lon": 38.735 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.732 }
+    },
+    {
+      "from": "Sar Bet Taxi Stand",
+      "to": "Autobis Tera",
+      "fromCoordinates": { "lat": 9.025, "lon": 38.735 },
+      "toCoordinates": { "lat": 9.025, "lon": 38.735 } 
+    },
+    {
+      "from": "CMC Taxi Terminal",
+      "to": "Bole",
+      "fromCoordinates": { "lat": 9.02, "lon": 38.827 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.773 }
+    },
+    {
+      "from": "CMC Taxi Terminal",
+      "to": "Hayahulet",
+      "fromCoordinates": { "lat": 9.02, "lon": 38.827 },
+      "toCoordinates": { "lat": 9.02, "lon": 38.827 } 
+    },
+    {
+      "from": "Megenagna Station",
+      "to": "Bole",
+      "fromCoordinates": { "lat": 9.021, "lon": 38.802 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.773 }
+    },
+    {
+      "from": "Megenagna Station",
+      "to": "CMC",
+      "fromCoordinates": { "lat": 9.021, "lon": 38.802 },
+      "toCoordinates": { "lat": 9.020, "lon": 38.827 }
+    },
+    {
+      "from": "Lideta Taxi Stop",
+      "to": "Mexico Square",
+      "fromCoordinates": { "lat": 9.013, "lon": 38.732 },
+      "toCoordinates": { "lat": 9.01, "lon": 38.742 }
+    },
+    {
+      "from": "Lideta Taxi Stop",
+      "to": "Sar Bet",
+      "fromCoordinates": { "lat": 9.013, "lon": 38.732 },
+      "toCoordinates": { "lat": 9.025, "lon": 38.735 }
+    },
+    {
+      "from": "Kazanchis Station",
+      "to": "Meskel Square",
+      "fromCoordinates": { "lat": 9.015, "lon": 38.767 },
+      "toCoordinates": { "lat": 9.011, "lon": 38.761 }
+    },
+    {
+      "from": "Kazanchis Station",
+      "to": "Bole",
+      "fromCoordinates": { "lat": 9.015, "lon": 38.767 },
+      "toCoordinates": { "lat": 9.013, "lon": 38.773 }
+    },
+    {
+      "from": "4 Kilo Taxi Stand",
+      "to": "Piazza",
+      "fromCoordinates": { "lat": 9.034, "lon": 38.763 },
+      "toCoordinates": { "lat": 9.033, "lon": 38.753 }
+    },
+    {
+      "from": "4 Kilo Taxi Stand",
+      "to": "Sidist Kilo",
+      "fromCoordinates": { "lat": 9.034, "lon": 38.763 },
+      "toCoordinates": { "lat": 9.034, "lon": 38.763 } 
+    }
+  ]
